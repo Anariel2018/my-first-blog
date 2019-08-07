@@ -25,7 +25,7 @@ SECRET_KEY = '&x77s(w*exynz2(re8*2gtsd=m3(%6)7j@4$)2h%+%5pxyak7q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'anariel.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'anariel2018.pythonanywhere.com']
 
 
 # Application definition
